@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aniruddhraam
-- 🌱 I’m currently learning Python and SQL
+- 🌱 Budding programmer
 - ⚡ Fun fact: I solve more bugs in my sleep than when im AWAKE
 
 <!---
