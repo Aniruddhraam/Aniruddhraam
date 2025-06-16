@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Aniruddhraam
+- 👋 Hi, I’m Aniruddh
 - 🌱 Budding programmer
-- ⚡ I solve more bugs in my sleep than when im AWAKE 😴
