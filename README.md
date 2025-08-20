@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Aniruddh
-- 🌱 Budding programmer
+- 🌱 Intermediate Dev in domain specific AI applications and a js dev for the web
