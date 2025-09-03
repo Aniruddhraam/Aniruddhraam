@@ -1,0 +1,36 @@
+# GitHub Action for generating a contribution graph with a snake eating the contributions
+name: Generate Snake
+
+# Controls when the action will run
+on:
+  # This schedule runs the workflow every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # This allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      # Generates the snake SVG
+      - uses: Platane/snk@v3
+        with:
+          # Your GitHub username. ${{ github.repository_owner }} will automatically use your username
+          github_user_name: ${{ github.repository_owner }}
+          
+          # List of files to generate.
+          # The first file is the standard snake animation.
+          # The second file is a dark-themed version of the snake.
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+        
+        # This token is required for the action to write the new file to your repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
