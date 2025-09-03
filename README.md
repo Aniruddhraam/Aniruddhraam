@@ -1,12 +1,10 @@
 <div align="center">
 
-
-
 <h1> Hi there, I'm AniruddhRaam Srinivasan 👋 </h1>
 
 <h3>A passionate developer from Your City, Country.</h3>
 
-<a href="https://github.com/YourUsername">
+<a href="https://github.com/Aniruddhraam">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&color=33FF33&center=true&vCenter=true&width=800&lines=Always+learning+and+exploring+new+technologies.;Building+cool+stuff+with+code.;Coffee-fueled+bug+squasher.☕" />
 </a>
 
@@ -15,10 +13,10 @@
 <br/>
 
 <div align="center">
-  <a href="www.linkedin.com/in/aniruddhraam-srinivasan">
+  <a href="https://www.linkedin.com/in/aniruddhraam-srinivasan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[[https://twitter.com/your-twitter-username]()](https://x.com/AniruddhRaam07)">
+  <a href="https://x.com/AniruddhRaam07">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:aniruddhraam07@gmail.com">
@@ -31,7 +29,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Semiconductor Material Discovery**.
-- 🌱 I’m currently learning **React Native GOlang**.
+- 🌱 I’m currently learning **React Native & GoLang**.
 - 💬 Ask me about **Python, Java, or anything tech-related**!
 - 📫 Reach me at: **aniruddhraam07@gmail.com**
 - 😄 Pronouns: **He/Him**
@@ -42,7 +40,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,flask,c,cpp,java,mongodb,mysql,postgres,docker,git,vscode,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,java,py,go,scala,c,html,css,react,angular,mysql,tensorflow,matlab,git,github,bash,windows,md&perline=9" />
   </a>
 </div>
 
