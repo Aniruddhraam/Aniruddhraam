@@ -5,7 +5,7 @@
 <h3>A passionate developer from Your City, Country.</h3>
 
 <a href="https://github.com/Aniruddhraam">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&color=33FF33&center=true&vCenter=true&width=800&lines=There+are+10₂+types+of+people:+Those+who+understand+binary+and+those+who+don%27t.;There%E2%80%99s+no+place+like+127.0.0.1.;Git+commit+-m+%22final+final+v2%22.;It+works+on+my+machine.%E2%84%A2;Documentation+is+just+comments+that+compiled."/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&color=33FF33&center=true&vCenter=true&width=1000&lines=There+are+10₂+types+of+people:+Those+who+understand+binary+and+those+who+don%27t.;There%E2%80%99s+no+place+like+127.0.0.1.;Git+commit+-m+%22final+final+v2%22.;It+works+on+my+machine.%E2%84%A2;Documentation+is+just+comments+that+compiled."/>
 </a>
 
 </div>
