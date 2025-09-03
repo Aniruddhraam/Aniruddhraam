@@ -52,11 +52,11 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniruddhraam&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
   </a>
   <br/><br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhraam&layout=compact&theme=dracula" />
   </a>
 </div>
 
@@ -65,5 +65,5 @@
 ## 🐍 My Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Aniruddhraam/Aniruddhraam/output/snake.svg" alt="Snake animation">
 </div>
