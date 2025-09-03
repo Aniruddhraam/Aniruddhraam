@@ -7,7 +7,7 @@
 <h3>A passionate developer from Your City, Country.</h3>
 
 <a href="https://github.com/YourUsername">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&color=33FF33&center=true&vCenter=true&width=600&lines=Always+learning+and+exploring+new+technologies.;Building+cool+stuff+with+code.;Coffee-fueled+bug+squasher.☕" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&color=33FF33&center=true&vCenter=true&width=800&lines=Always+learning+and+exploring+new+technologies.;Building+cool+stuff+with+code.;Coffee-fueled+bug+squasher.☕" />
 </a>
 
 </div>
