@@ -2,7 +2,7 @@
 
 
 
-<h1> Hi there, I'm Your Name 👋 </h1>
+<h1> Hi there, I'm AniruddhRaam Srinivasan 👋 </h1>
 
 <h3>A passionate developer from Your City, Country.</h3>
 
