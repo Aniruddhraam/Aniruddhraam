@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,py,go,scala,c,html,css,react,angular,mysql,tensorflow,matlab,git,github,bash,windows,md&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,java,py,go,scala,c,html,css,tailwind,react,angular,mysql,tensorflow,matlab,git,github,linux,bash,windows,md&perline=10" />
   </a>
 </div>
 
@@ -63,5 +63,5 @@
 ## 🐍 My Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aniruddhraam/Aniruddhraam/output/snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Aniruddhraam/Aniruddhraam/dist/snake.svg" alt="Snake animation">
 </div>
