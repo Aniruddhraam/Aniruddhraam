@@ -22,7 +22,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           # Your GitHub username. ${{ github.repository_owner }} will automatically use your username
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.Aniruddhraam }}
           
           # List of files to generate.
           # The first file is the standard snake animation.
