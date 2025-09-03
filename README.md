@@ -15,13 +15,13 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="www.linkedin.com/in/aniruddhraam-srinivasan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter-username">
+  <a href="[[https://twitter.com/your-twitter-username]()](https://x.com/AniruddhRaam07)">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:aniruddhraam07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
@@ -30,11 +30,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a **cool project name**.
-- 🌱 I’m currently learning **React Native & GraphQL**.
-- 💬 Ask me about **Python, JavaScript, or anything tech-related**!
-- 📫 How to reach me: **youremail@example.com**
-- 😄 Pronouns: **He/Him** or **She/Her** or **They/Them**
+- 🔭 I’m currently working on **Semiconductor Material Discovery**.
+- 🌱 I’m currently learning **React Native GOlang**.
+- 💬 Ask me about **Python, Java, or anything tech-related**!
+- 📫 How to reach me: **aniruddhraam07@gmail.com**
+- 😄 Pronouns: **He/Him**
 
 ---
 
