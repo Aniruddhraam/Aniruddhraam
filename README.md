@@ -62,5 +62,5 @@
 ## 🐍 My Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aniruddhraam/Aniruddhraam/YOUR_BRANCH_NAME/dist/snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Aniruddhraam/Aniruddhraam/main/dist/snake.svg" alt="Snake animation">
 </div>
