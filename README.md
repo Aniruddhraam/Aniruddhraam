@@ -33,7 +33,7 @@
 - 🔭 I’m currently working on **Semiconductor Material Discovery**.
 - 🌱 I’m currently learning **React Native GOlang**.
 - 💬 Ask me about **Python, Java, or anything tech-related**!
-- 📫 How to reach me: **aniruddhraam07@gmail.com**
+- 📫 Reach me at: **aniruddhraam07@gmail.com**
 - 😄 Pronouns: **He/Him**
 
 ---
