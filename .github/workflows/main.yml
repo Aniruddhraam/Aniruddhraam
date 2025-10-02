@@ -33,4 +33,4 @@ jobs:
         
         # This token is required for the action to write the new file to your repository
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
