@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently working on **Semiconductor Material Discovery**.
 - 🌱 I’m currently learning **C & GoLang**.
-- 💬 Ask me about **Python, Java, or anything tech-related**!
+- 💬 Open to talk about **anything** tech-related!
 - 📫 Reach me at: **aniruddhraam07@gmail.com**
 - 😄 Pronouns: **He/Him**
 
