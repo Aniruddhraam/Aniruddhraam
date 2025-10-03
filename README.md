@@ -56,11 +56,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhraam&layout=compact&theme=dracula" />
   </a>
 </div>
-
----
-
-## 🐍 My Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aniruddhraam/Aniruddhraam/main/dist/snake.svg" alt="Snake animation">
-</div>
