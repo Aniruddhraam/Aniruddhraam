@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Semiconductor Material Discovery**.
+- 🔭 I’m currently working on **Semiconductor Material Discovery and High Performance Computing**.
 - 🌱 I’m currently learning **C & GoLang**.
 - 💬 Open to talk about **anything** tech-related!
 - 📫 Reach me at: **aniruddhraam07@gmail.com**
