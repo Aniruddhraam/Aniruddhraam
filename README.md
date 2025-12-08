@@ -43,16 +43,3 @@
     <img src="https://skillicons.dev/icons?i=js,java,py,go,scala,c,html,css,tailwind,nodejs,react,mysql,tensorflow,matlab,git,github,linux,bash,windows,md&perline=10&theme=dark" />
   </a>
 </div>
-
----
-## 📊 My GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniruddhraam&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_rank=true" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhraam&layout=compact&theme=dracula" />
-  </a>
-</div>
