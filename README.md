@@ -45,4 +45,4 @@
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhraam&layout=compact&hide_title=true&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aniruddhraam" />
