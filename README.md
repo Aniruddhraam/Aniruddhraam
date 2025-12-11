@@ -43,6 +43,3 @@
     <img src="https://skillicons.dev/icons?i=js,java,py,go,scala,c,html,css,tailwind,nodejs,react,mysql,tensorflow,matlab,git,github,linux,bash,windows,md&perline=10&theme=dark" />
   </a>
 </div>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aniruddhraam" />
