@@ -36,6 +36,8 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=**Aniruddhraam**)
+
 ## 💻 Tech Stack
 
 <div align="center">
