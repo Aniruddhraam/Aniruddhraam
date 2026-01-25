@@ -2,7 +2,9 @@
 
 <h1> Hi there, I'm AniruddhRaam Srinivasan 👋 </h1>
 
-<h3>A passionate developer from India :india:</h3>
+<h3>A passionate developer from India <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg"
+     alt="India" width="40" />
+</h3>
 
 <a href="https://github.com/Aniruddhraam">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&color=33FF33&center=true&vCenter=true&width=1200&lines=There+are+10₂+types+of+people:+Those+who+understand+binary+and+those+who+don%27t.;There%E2%80%99s+no+place+like+127.0.0.1.;Git+commit+-m+%22final+final+v2%22.;It+works+on+my+machine.%E2%84%A2;Documentation+is+just+comments+that+compiled."/>
