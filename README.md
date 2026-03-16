@@ -31,7 +31,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Systems Programming and Bioinformatics with AI**.
-- 🌱 I’m currently learning **C & GoLang**.
+- 🌱 I’m currently learning **Systems Programming in C**.
 - 💬 Open to talk about **anything** tech-related!
 - 📫 Reach me at: **aniruddhraam07@gmail.com**
 - 😄 Pronouns: **He/Him**
@@ -42,6 +42,6 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,py,go,scala,c,html,css,tailwind,nodejs,react,mysql,tensorflow,matlab,git,github,linux,bash,windows,md&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,py,scala,java,go,js,html,css,tailwind,nodejs,react,mysql,tensorflow,matlab,git,github,linux,bash,windows,md&perline=10&theme=dark" />
   </a>
 </div>
